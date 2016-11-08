@@ -19,8 +19,11 @@ hàm 2
 .....
 hàm n
 
-vd: Kieu_tra_ve Ten_ham( Danh sach tham so )
+vd: `Kieu_tra_ve Ten_ham( Danh sach tham so )
+
 {
+
 Than ham
-}
+
+}`
 
